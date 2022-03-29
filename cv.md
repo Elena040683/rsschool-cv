@@ -19,3 +19,8 @@
 - HTML
 - CSS
 - Javascript
+
+## Languages:
+
+** Russian - native**
+** English - Intermediate**
