@@ -1,8 +1,10 @@
-# CONTACTS:
+# Elena Ponomareva
+
+## CONTACTS:
 
 **Elena3405674@mail.ru**
 
-https://www.linkedin.com/in/elenaponomareva/
+[linkedin](https://www.linkedin.com/in/elenaponomareva/)
 
 ** Minsk, Belarus**
 
