@@ -1,1 +1,1 @@
-https://github.com/Elena040683/rsschool-cv/tree/gh-pages#readme
+https://elena040683.github.io/rsschool-cv/
