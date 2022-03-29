@@ -8,13 +8,13 @@
 
 ** Minsk, Belarus**
 
-# Soft Skills
+## Soft Skills
 
 - Scrum
 - Agile
 - Teamwork
 
-# Tech Skills
+## Tech Skills
 
 - HTML
 - CSS
